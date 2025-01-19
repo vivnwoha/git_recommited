@@ -1,4 +1,4 @@
-mmnew cal
+new cal
       June 2024     
 Su Mo Tu We Th Fr Sa
                    1
